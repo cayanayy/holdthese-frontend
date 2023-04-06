@@ -1,0 +1,6 @@
+{
+  "short_name": "holdthese",
+  "name": "holdthese frontend",
+  "start_url": ".",
+  "display": "standalone"
+}
